@@ -27,5 +27,5 @@ The LCD also shows refill alerts when medicines are running out.
 - Add automatic pill dispensing  
 - Add mobile app integration for logs and reminders
 ## 📄 Project Report  
-[Download the Word document here](Smart Medicine Reminder and Caretaker Alert System.docx)
+[Download the Word document here](https://github.com/PoojaR2804/Smart-Medicine-Reminder-IOT/raw/refs/heads/main/Smart%20Medicine%20Reminder%20and%20Caretaker%20Alert%20System.docx)
 - 
