@@ -26,3 +26,6 @@ The LCD also shows refill alerts when medicines are running out.
 ## Future Improvements
 - Add automatic pill dispensing  
 - Add mobile app integration for logs and reminders
+## 📄 Project Report  
+[Download the Word document here](Smart Medicine Reminder and Caretaker Alert System.docx)
+- 
